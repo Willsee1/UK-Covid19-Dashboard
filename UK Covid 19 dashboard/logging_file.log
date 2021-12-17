@@ -1,0 +1,5 @@
+2021-12-17 09:07:49,357 - List containing nation_2021-10-28.csv is made - INFO
+2021-12-17 09:07:49,357 - data is retrived from covid_csv_data - INFO
+2021-12-17 09:07:49,593 - new articles added to the web page - INFO
+2021-12-17 09:07:49,593 - data has been retrived from the json file - INFO
+2021-12-17 09:07:49,604 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) - INFO
